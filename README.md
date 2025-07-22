@@ -17,17 +17,30 @@ Desarrollamos un sistema completo de gestión de inventarios, el cual ofrecemos 
 
 ## 🛠 Skills
 
+### FrontEnd
+
+<p align="left">
+
 ![HTML5](https://img.shields.io/badge/-HTML%205-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34C26&color=%23E34C26)
-
-![Static Badge](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=rebeccapurple&color=rebeccapurple)
-
+![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css&logoColor=white&logoSize=auto&labelColor=rebeccapurple&color=rebeccapurple)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F0DB4F&color=%23F0DB4F)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black&logoSize=auto&color=%2361DAFB)
+</p>
+
+### BackEnd
+
+<p align="left">
 
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&labelColor=%23474A8A&color=%23474A8A)
+![MySQL](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
+</p>
+
+### Extras o usados en otros proyectos
+
+<p align="left">
 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow&color=yellow)
-
-![Static Badge](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
+</p>
 
 
 ---
