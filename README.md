@@ -3,6 +3,8 @@
 Soy un programador al que le **apasiona** el desarrollo web Full-Stack, las redes y la ciberseguridad.  
 Comencé en el mundo de la informática y el desarrollo web en 2024.  
 
+### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com/portfolio/)
+
 He trabajado en varios proyectos como:
 - La página institucional de mi colegio.
 - Sistemas de gestión para clientes.
