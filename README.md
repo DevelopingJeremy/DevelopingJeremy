@@ -12,9 +12,6 @@ He trabajado en varios proyectos como:
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
-En 2025 fundé mi propia startup, **NOMBRE Software**, una empresa de desarrollo de aplicaciones y páginas webs.  
-Desarrollamos un sistema completo de gestión de inventarios, el cual ofrecemos mediante suscripciones, además de proyectos personalizados para nuestros clientes.
-
 ---
 
 ## 🛠 Skills
