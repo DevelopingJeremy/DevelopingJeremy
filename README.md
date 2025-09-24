@@ -9,6 +9,7 @@ He trabajado en varios proyectos como:
 - La página institucional de mi colegio.
 - Sistemas de gestión para clientes.
 - Landing pages y sitios personalizados.
+- Aplicaciones webs como sistemas de pedidos y agendador de citas para empresas
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
