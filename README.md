@@ -13,6 +13,8 @@ He trabajado en varios proyectos como:
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
+Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para poder a escalar a un mejor futuro
+
 ---
 
 ## 🛠 Skills
