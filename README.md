@@ -3,7 +3,7 @@
 Soy un programador al que le **apasiona** el desarrollo web Full-Stack, las redes y la ciberseguridad.  
 Comencé en el mundo de la informática y el desarrollo web en 2024.  
 
-### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com/portfolio/)
+### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
 He trabajado en varios proyectos como:
 - La página institucional de mi colegio.
@@ -36,6 +36,7 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&labelColor=%23474A8A&color=%23474A8A)
 ![MySQL](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/-NodeJS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto&labelColor=%235FA04E)
 </p>
 
 ### Extras o usados en otros proyectos
@@ -68,4 +69,4 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 
 [![Credly - Jeremy Quesada](https://img.shields.io/badge/Jeremy%20Quesada-white?style=for-the-badge&logo=credly&logoColor=white&labelColor=black&color=%23FF6B00)](https://www.credly.com/users/jeremy-quesada-garro)
 
-[![LinkedIn - Jeremy Quesada](https://img.shields.io/badge/LinkedIn%20-%20Jeremy%20Quesada-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230077b5)](https://www.linkedin.com/in/jeremy-quesada-garro-6a5710310/)
+[![LinkedIn - Jeremy Quesada](https://img.shields.io/badge/LinkedIn%20-%20Jeremy%20Quesada-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230077b5)](https://www.linkedin.com/in/jeremy-andrey-quesada-garro-6a5710310/)
