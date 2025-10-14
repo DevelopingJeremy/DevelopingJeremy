@@ -39,11 +39,6 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 ![Static Badge](https://img.shields.io/badge/-NodeJS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto&labelColor=%235FA04E)
 </p>
 
-### Extras o usados en otros proyectos
-
-<p align="left">
-
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow&color=yellow)
 </p>
 
 
