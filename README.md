@@ -51,10 +51,11 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 - Carrera Profesional de Técnico en Redes (Cisco)
 - Fundamentos de Redes (Cisco)
 - Introducción a la Ciberseguridad (Cisco)
+- Fundamentos de Windows Server (Edutek)
 
 ### 📖 Otros cursos en progreso:
 - Linux con Debian (Edutek)
-- Fundamentos de Windows Server (Edutek)
+- Azure AZ-900
 - CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas (Cisco)
 - IT Essentials v7 (Cisco)
 
