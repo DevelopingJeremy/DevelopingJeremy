@@ -35,10 +35,14 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 <p align="left">
 
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=white&labelColor=%23474A8A&color=%23474A8A)
-![MySQL](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/-NodeJS-%235FA04E?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto&labelColor=%235FA04E)
 </p>
 
+### Bases de datos
+
+<p align="left">
+  
+![MySQL](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
 </p>
 
 
