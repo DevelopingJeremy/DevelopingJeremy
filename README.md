@@ -58,10 +58,11 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 - Fundamentos de Windows Server (Edutek)
 
 ### 📖 Otros cursos en progreso:
-- Linux con Debian (Edutek)
+- Fundamentos de Linux (Edutek)
 - Azure AZ-900
 - CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas (Cisco)
 - IT Essentials v7 (Cisco)
+- CyberOps Associate (Cisco x Edutek)
 
 ---
 
