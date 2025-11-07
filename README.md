@@ -45,7 +45,6 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 ![MySQL](https://img.shields.io/badge/MySQL-nlack?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=black&color=%234479A1)
 </p>
 
-
 ---
 
 ## 📄 Títulos y Certificados
