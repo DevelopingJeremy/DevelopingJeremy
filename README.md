@@ -11,6 +11,7 @@ He trabajado en varios proyectos como:
 - Landing pages y sitios personalizados.
 - Aplicaciones webs como sistemas de pedidos y agendador de citas para empresas.
 - Sistemas institucionales usados a nivel nacional con mas de 2500 usuarios activos
+- Sistemas para colegios y escuales los cuales regulan asistencia de estudiantes y docentes
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
