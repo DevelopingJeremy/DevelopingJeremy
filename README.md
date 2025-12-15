@@ -6,12 +6,11 @@ Comencé en el mundo de la informática y el desarrollo web en 2024.
 ### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
 He trabajado en varios proyectos como:
-- La página institucional de mi colegio.
 - Sistemas de gestión para clientes.
 - Landing pages y sitios personalizados.
 - Aplicaciones webs como sistemas de pedidos y agendador de citas para empresas.
-- Sistemas institucionales usados a nivel nacional con mas de 2500 usuarios activos
-- Sistemas para colegios y escuales los cuales regulan asistencia de estudiantes y docentes
+- Sistemas institucionales usados a nivel nacional con mas de 5000 usuarios activos.
+- Sistemas para colegios y escuelas los cuales regulan asistencia de estudiantes y docentes.
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
