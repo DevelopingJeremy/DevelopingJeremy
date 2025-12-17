@@ -1,7 +1,7 @@
 # 👨🏻‍💻 SOBRE MÍ
 
-Soy un programador al que le **apasiona** el desarrollo web Full-Stack, las redes y la ciberseguridad.  
-Comencé en el mundo de la informática y el desarrollo web en 2024.  
+Soy un programador al que le **apasiona** el desarrollo web Full-Stack.  
+Fundador de Intexa, una startup tecnologica la cual su funcion es dar soluciones al dia a dia de cada usuario.  
 
 ### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
