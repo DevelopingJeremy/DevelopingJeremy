@@ -1,7 +1,9 @@
 # 👨🏻‍💻 SOBRE MÍ
 
 Soy un programador al que le **apasiona** el desarrollo web Full-Stack.  
-Fundador de Intexa, una startup tecnologica la cual su funcion es dar soluciones al dia a dia de cada usuario.  
+Fundador de Intexa, una startup tecnologica la cual su funcion es dar soluciones al dia a dia de cada usuario.
+
+Uno de mis mas grandes proyectos: [Tu menú Latinoamérica](https://tumenu.lat)
 
 ### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
