@@ -14,6 +14,7 @@ He trabajado en varios proyectos como:
 - Sistemas institucionales usados a nivel nacional con mas de 5000 usuarios activos.
 - Sistemas para colegios y escuelas los cuales regulan asistencia de estudiantes y docentes.
 - ERPs para todo tipo de empresas.
+- Apps simples para la resolucion de problemas cotidianos.
 
 En 2024 participé en una competencia de **SumoBot**, donde diseñamos y programamos un robot desde cero con Python y lo armamos pieza por pieza.
 
