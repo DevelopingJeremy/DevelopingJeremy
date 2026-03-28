@@ -68,3 +68,4 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 [![Credly - Jeremy Quesada](https://img.shields.io/badge/Jeremy%20Quesada-white?style=for-the-badge&logo=credly&logoColor=white&labelColor=black&color=%23FF6B00)](https://www.credly.com/users/jeremy-quesada-garro)
 
 [![LinkedIn - Jeremy Quesada](https://img.shields.io/badge/LinkedIn%20-%20Jeremy%20Quesada-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230077b5)](https://www.linkedin.com/in/jeremy-andrey-quesada-garro-6a5710310/)
+
