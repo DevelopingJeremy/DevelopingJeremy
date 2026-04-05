@@ -1,4 +1,4 @@
-# 👨🏻‍💻 SOBRE MÍ
+# 👨🏻‍💻 SOBRE MÍ / ABOUT ME
 
 Soy un programador al que le **apasiona** el desarrollo web Full-Stack.  
 Fundador de Intexa, una startup tecnologica creada en 2025 la cual su funcion es dar soluciones al dia a dia de cada usuario.
