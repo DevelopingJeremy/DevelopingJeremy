@@ -9,7 +9,6 @@ Uno de mis mas grandes proyectos: [Tu menú Latinoamérica.](https://tumenu.lat)
 
 He trabajado en varios proyectos como:
 - Sistemas de gestión para clientes.
-- Landing pages y sitios personalizados.
 - Aplicaciones webs como sistemas de pedidos y agendador de citas para empresas.
 - Sistemas institucionales usados a nivel nacional con mas de 5000 usuarios activos.
 - Sistemas para colegios y escuelas los cuales regulan asistencia de estudiantes y docentes.
