@@ -5,7 +5,7 @@ Fundador de Intexa, una startup tecnologica creada en 2025 la cual su funcion es
 
 Uno de mis mas grandes proyectos: [Tu menú Latinoamérica.](https://tumenu.lat).
 
-### Fundador de: [Intexa Tech Costa Rica](https://intexacr.com)
+### Fundador de: [Intexa Costa Rica](https://intexacr.com)
 
 ### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
