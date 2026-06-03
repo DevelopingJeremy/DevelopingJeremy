@@ -63,7 +63,6 @@ Hoy me encuentro fundando mi propia Startup de soluciones tecnológicas para pod
 - Fundamentos de Windows Server (Edutek)
 - IT Essentials v7 (Cisco)
 
-
 ---
 
 ## 🔗 Enlaces
