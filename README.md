@@ -3,9 +3,9 @@
 Soy un programador al que le **apasiona** el desarrollo web Full-Stack.  
 Fundador de Intexa, una startup tecnologica creada en 2025 la cual su funcion es dar soluciones al dia a dia de cada usuario.
 
-Uno de mis mas grandes proyectos: [Tu menú Latinoamérica.](https://tumenu.lat).
+Uno de mis mas grandes proyectos: [Tu menú Latinoamérica](https://tumenu.lat).
 
-O también puedes revisar la app para docentes!: [SIGEA Costa Rica.](https://sigeacr.com).
+O también puedes revisar la app para docentes!: [SIGEA Costa Rica](https://sigeacr.com).
 
 ### Fundador de: [Intexa Costa Rica](https://intexacr.com)
 
