@@ -9,6 +9,7 @@ O también puedes revisar la app para docentes!: [SIGEA Costa Rica](https://sige
 
 ### Fundador de: [Intexa Costa Rica](https://intexacr.com)
 
+
 ### *Puedes visitar mi Portfolio en:* [Jeremy Quesada | Portfolio](https://jeremyqg.com)
 
 He trabajado en varios proyectos como:
